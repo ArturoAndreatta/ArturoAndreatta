@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-activity-graph.vercel.app/api?username=ArturoAndreatta&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-activity-graph.vercel.app/api/top-langs/?username=ArturoAndreatta&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArturoAndreatta&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArturoAndreatta&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArturoAndreatta&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/graph?username=ArturoAndreatta&theme=minimal&hide_border=true" />
 </p>
 
 ---
