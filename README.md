@@ -10,7 +10,7 @@
 ### 🧭 Sobre mim
 
 - 💼 Programador Sênior em **InterSystems IRIS ObjectScript**, atuando também em liderança técnica
-- 📱 Desenvolvendo o **[Bolão Bolado](https://github.com/ArturoAndreatta/bolao-bolado)** em **Flutter** — meu projeto pessoal de apostas/bolões
+- 📱 Desenvolvendo o **[Bolão Bolado](https://bolaobolado-app.web.app/)** em **Flutter** — meu projeto pessoal de apostas/bolões
 - 🎯 Objetivo: consolidar padrões de desenvolvimento sólidos e escaláveis, unindo backend robusto com frontend moderno
 - 📍 Baseado em Jaraguá do Sul, SC — Brasil
 
