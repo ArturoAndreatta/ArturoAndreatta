@@ -39,9 +39,9 @@ App de bolões esportivos em **Flutter + Firebase** — salas, apostas, chat em 
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-phi-one-61.vercel.app/api?username=ArturoAndreatta&show_icons=true&theme=default&hide_border=true)
+![Stats](https://github-readme-stats-arturo-andreatta.vercel.app//api?username=ArturoAndreatta&show_icons=true&theme=default&hide_border=true)
 
-![Linguagens](https://github-readme-stats-phi-one-61.vercel.app/api/top-langs/?username=ArturoAndreatta&layout=compact&theme=default&hide_border=true)
+![Linguagens](https://github-readme-stats-arturo-andreatta.vercel.app//api/top-langs/?username=ArturoAndreatta&layout=compact&theme=default&hide_border=true)
 
 ---
 
