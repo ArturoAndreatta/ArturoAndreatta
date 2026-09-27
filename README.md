@@ -2,8 +2,6 @@
 
 ### Analista de Sistemas • Desenvolvedor Fullstack
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Analista+de+Sistemas+%7C+ERP+em+InterSystems+IRIS;Integra%C3%A7%C3%B5es+e+APIs+entre+sistemas;Apps+em+Flutter+%2B+Firebase)](https://git.io/typing-svg)
-
 ---
 
 ### 🎯 Veja funcionando
