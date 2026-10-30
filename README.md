@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Bol%C3%A3o%20Bolado-Abrir%20o%20app%20%E2%86%92-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Abrir o Bolão Bolado">
 </a>
 
-App de bolões esportivos em **Flutter + Firebase**, com salas, apostas, chat em tempo real e login. Fiz do zero, incluindo a arquitetura, a modelagem no Firestore, as regras de segurança e o deploy.
+App de bolões em **Flutter + Firebase**, com salas, apostas, chat em tempo real e login.
 
 ---
 
