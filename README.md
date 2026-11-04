@@ -1,50 +1,36 @@
-# Olá, eu sou o Arturo 👋
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" alt="Arturo Andreatta, Analista de Sistemas"></picture>
 
-### Analista de Sistemas • Desenvolvedor Fullstack
+## Sobre mim
 
----
+Trabalho com backend de ERP para indústria em **InterSystems IRIS / ObjectScript**, lidando com regras de negócio complexas e integrações com sistemas de terceiros.
 
-### 🎯 Veja funcionando
+Fora do expediente, construo apps em **Flutter + Firebase** e automatizo tudo que se repete mais de duas vezes.
 
-<a href="https://bolaobolado-app.web.app/">
-<img src="https://img.shields.io/badge/Bol%C3%A3o%20Bolado-Abrir%20o%20app%20%E2%86%92-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Abrir o Bolão Bolado">
-</a>
+## Stack
 
-App de bolões em **Flutter + Firebase**, com salas, apostas, chat em tempo real e login.
+**Trabalho**
 
----
+![InterSystems IRIS / Caché](https://img.shields.io/badge/%20-InterSystems_IRIS_%2F_Cach%C3%A9-1f2430?style=for-the-badge&labelColor=7aa2f7) ![ObjectScript](https://img.shields.io/badge/%20-ObjectScript-1f2430?style=for-the-badge&labelColor=7aa2f7) ![SQL](https://img.shields.io/badge/%20-SQL-1f2430?style=for-the-badge&labelColor=7aa2f7) ![REST APIs](https://img.shields.io/badge/%20-REST_APIs-1f2430?style=for-the-badge&labelColor=7aa2f7) ![JSON](https://img.shields.io/badge/%20-JSON-1f2430?style=for-the-badge&labelColor=7aa2f7)
 
-### 🧭 Sobre mim
+**Projetos pessoais**
 
-- 💼 **Analista de Sistemas** na área de ERP para indústria, com backend em **InterSystems IRIS / Caché (ObjectScript)**. Regras de negócio complexas e alto volume transacional
-- 🔌 Experiência em **APIs REST e integração** entre ERP e sistemas de terceiros
-- 👥 Responsável técnico por uma das equipes de desenvolvimento
-- 📱 Nos projetos pessoais, construo apps em **Flutter + Firebase**
-- 📍 Baseado em Jaraguá do Sul, SC, Brasil
+![Flutter](https://img.shields.io/badge/%20-Flutter-1f2430?style=for-the-badge&labelColor=9d7cd8) ![Dart](https://img.shields.io/badge/%20-Dart-1f2430?style=for-the-badge&labelColor=9d7cd8) ![Firebase](https://img.shields.io/badge/%20-Firebase-1f2430?style=for-the-badge&labelColor=9d7cd8) ![JavaScript](https://img.shields.io/badge/%20-JavaScript-1f2430?style=for-the-badge&labelColor=9d7cd8) ![TypeScript](https://img.shields.io/badge/%20-TypeScript-1f2430?style=for-the-badge&labelColor=9d7cd8) ![HTML](https://img.shields.io/badge/%20-HTML-1f2430?style=for-the-badge&labelColor=9d7cd8) ![CSS](https://img.shields.io/badge/%20-CSS-1f2430?style=for-the-badge&labelColor=9d7cd8) ![Node.js](https://img.shields.io/badge/%20-Node.js-1f2430?style=for-the-badge&labelColor=9d7cd8) ![Cloudflare Workers](https://img.shields.io/badge/%20-Cloudflare_Workers-1f2430?style=for-the-badge&labelColor=9d7cd8)
 
----
+**Automação e ferramentas**
 
-### 🛠️ Stack
+![Python](https://img.shields.io/badge/%20-Python-1f2430?style=for-the-badge&labelColor=73daca) ![PowerShell](https://img.shields.io/badge/%20-PowerShell-1f2430?style=for-the-badge&labelColor=73daca) ![AutoHotkey](https://img.shields.io/badge/%20-AutoHotkey-1f2430?style=for-the-badge&labelColor=73daca) ![Chrome Extensions](https://img.shields.io/badge/%20-Chrome_Extensions-1f2430?style=for-the-badge&labelColor=73daca) ![Git](https://img.shields.io/badge/%20-Git-1f2430?style=for-the-badge&labelColor=73daca) ![GitHub](https://img.shields.io/badge/%20-GitHub-1f2430?style=for-the-badge&labelColor=73daca) ![GitHub Actions](https://img.shields.io/badge/%20-GitHub_Actions-1f2430?style=for-the-badge&labelColor=73daca) ![VS Code](https://img.shields.io/badge/%20-VS_Code-1f2430?style=for-the-badge&labelColor=73daca)
 
-![ObjectScript](https://img.shields.io/badge/ObjectScript-IRIS-orange?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## Projetos
 
----
+<p>
+<a href="https://github.com/ArturoAndreatta/bolao-bolado"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/bolao-bolado-dark.svg"><img src="assets/bolao-bolado-light.svg" alt="bolao-bolado" width="32%"></picture></a>
+<a href="https://github.com/ArturoAndreatta/ping"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ping-dark.svg"><img src="assets/ping-light.svg" alt="ping" width="32%"></picture></a>
+<a href="https://github.com/ArturoAndreatta/neatly"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/neatly-dark.svg"><img src="assets/neatly-light.svg" alt="neatly" width="32%"></picture></a>
+</p>
 
-### 📊 GitHub Stats
+O Bolão Bolado está no ar: [bolaobolado-app.web.app](https://bolaobolado-app.web.app/)
 
-![Stats](https://github-readme-stats-phi-one-61.vercel.app/api?username=ArturoAndreatta&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Linguagens](https://github-readme-stats-phi-one-61.vercel.app/api/top-langs/?username=ArturoAndreatta&layout=compact&theme=default&hide_border=true)
+## Contato
 
----
-
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arturo-andreatta-78b054155/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturoandreatta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-1f2430?style=for-the-badge&labelColor=7aa2f7)](https://www.linkedin.com/in/arturo-andreatta-78b054155/)
+[![E-mail](https://img.shields.io/badge/%20-E--mail-1f2430?style=for-the-badge&labelColor=9d7cd8)](mailto:arturoandreatta@gmail.com)
