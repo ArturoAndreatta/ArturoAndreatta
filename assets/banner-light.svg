@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="200" viewBox="0 0 820 200" role="img" aria-label="Arturo Andreatta, Analista de Sistemas">
+  <style>
+    .sweep{animation:sweep 6s ease-in-out infinite alternate}
+    @keyframes sweep{from{transform:translateX(-120px)}to{transform:translateX(120px)}}
+    .caret{animation:blink 1s steps(1) infinite}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.sweep,.caret{animation:none}}
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eef2ff"/><stop offset="1" stop-color="#f4efff"/></linearGradient>
+    <linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#7aa2f7" stop-opacity="0"/><stop offset=".5" stop-color="#7aa2f7"/><stop offset="1" stop-color="#9d7cd8" stop-opacity="0"/></linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#1a1b27" stroke-opacity=".05"/></pattern>
+    <clipPath id="r"><rect width="820" height="200" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="820" height="200" fill="url(#bg)"/>
+    <rect width="820" height="200" fill="url(#grid)"/>
+    <circle cx="700" cy="40" r="120" fill="#9d7cd8" fill-opacity=".12"/>
+    <circle cx="760" cy="170" r="80" fill="#7aa2f7" fill-opacity=".12"/>
+    <text x="44" y="92" fill="#1a1b27" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="-1">Arturo Andreatta</text>
+    <text x="46" y="128" fill="#3d4566" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="17">Analista de Sistemas · Backend IRIS · Apps Flutter<tspan class="caret" fill="#3d59a1">_</tspan></text>
+    <g class="sweep"><rect x="300" y="160" width="240" height="2" fill="url(#ln)"/></g>
+    <text x="46" y="172" fill="#6b7394" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'SFMono-Regular', Menlo, monospace" font-size="13">Jaraguá do Sul, SC</text>
+  </g>
+</svg>
