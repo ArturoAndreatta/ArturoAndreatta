@@ -2,9 +2,9 @@
 
 ## Sobre mim
 
-Trabalho com backend de ERP para indústria em **InterSystems IRIS / ObjectScript**, lidando com regras de negócio complexas e integrações com sistemas de terceiros.
+Desenvolvedor fullstack com foco em ERP para indústria em **InterSystems IRIS / ObjectScript**: regras de negócio complexas, integrações com sistemas de terceiros e APIs REST.
 
-Fora do expediente, construo apps em **Flutter + Firebase** e automatizo tudo que se repete mais de duas vezes.
+Também desenvolvo apps em **Flutter + Firebase** e ferramentas de automação.
 
 ## Stack
 
